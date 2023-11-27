@@ -1,0 +1,6 @@
+com\cricket\live\model\Match.class
+com\cricket\live\model\MatchStatus.class
+com\cricket\live\service\impl\CricketServiceImpl.class
+com\cricket\live\controller\CricketController.class
+com\cricket\live\service\CricketService.class
+com\cricket\live\CricketLiveSoreApplication.class
